@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /usr/bin/bash
 # Copyright (C) 2018 Igara Studio S.A.
 # Copyright (C) 2018 David Capello
 
